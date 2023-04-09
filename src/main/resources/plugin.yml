@@ -1,0 +1,5 @@
+name: DStats
+version: '${project.version}'
+main: party.ethan.dstats.DStats
+api-version: 1.19
+load: STARTUP
